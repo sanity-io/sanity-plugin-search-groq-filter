@@ -1,0 +1,7 @@
+.DS_Store
+/.eslintignore
+/.eslintrc
+/.prettierrc
+/babel.config.js
+/src
+/node_modules
