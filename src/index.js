@@ -1,1 +1,1 @@
-export {parseSearchQuery} from './parseSearchQuery'
+export {default as parseSearchQuery} from './parseSearchQuery'
