@@ -12,6 +12,8 @@ Run this command in your Sanity Studio project:
 sanity install search-groq-filter
 ```
 
+> NOTE: this plugin will only work in future releases of Sanity.
+
 ## License
 
 MIT © [Sanity.io](https://www.sanity.io/)
